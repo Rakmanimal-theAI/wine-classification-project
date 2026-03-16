@@ -26,6 +26,7 @@ Features include:
 - Logistic Regression
 - Random Forest
 - K-Nearest Neighbors
+
 - Support Vector Machine
 - Decision Tree
 - Naive Bayes
@@ -33,3 +34,4 @@ Features include:
 ## Results
 
 Best performing model: **Random Forest / Logistic Regression** with 100% accuracy.
+<img width="700" height="543" alt="Screenshot 2026-03-17 at 11 24 50 AM" src="https://github.com/user-attachments/assets/1fc1f717-83f7-4745-88c1-b3d290b35e78" />
