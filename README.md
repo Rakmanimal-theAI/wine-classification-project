@@ -1,5 +1,7 @@
 # Wine Classification & Data Exploration
 
+<img width="700" height="543" alt="Screenshot 2026-03-17 at 11 24 50 AM" src="https://github.com/user-attachments/assets/1fc1f717-83f7-4745-88c1-b3d290b35e78" />
+
 This project explores the UCI Wine dataset (https://www.kaggle.com/datasets/tawfikelmetwally/wine-dataset) and applies several machine learning models to classify wines based on chemical properties.
 
 ## Dataset
@@ -34,4 +36,3 @@ Features include:
 ## Results
 
 Best performing model: **Random Forest / Logistic Regression** with 100% accuracy.
-<img width="700" height="543" alt="Screenshot 2026-03-17 at 11 24 50 AM" src="https://github.com/user-attachments/assets/1fc1f717-83f7-4745-88c1-b3d290b35e78" />
